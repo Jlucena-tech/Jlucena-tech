@@ -5,50 +5,29 @@
 Profissional com perfil colaborativo e flexibilidade para lidar com mudanças. Especializado em automação de testes com Cypress e JavaScript, execução de testes manuais e conhecimentos em banco de dados (MySQL). Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade Martha Falcão – Wyden.
 
 <p align="left">
-    <a href="mailto:josuelucena2019@gmail.com">
-        <img 
-            alt="Email" 
-            title="Me envie um email" 
-            src="https://img.shields.io/badge/Email-josuelucena2019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="tel:+559281919817">
-        <img 
-            alt="Telefone" 
-            title="Me ligue" 
-            src="https://img.shields.io/badge/Telefone-(92)%208191--9817-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-        />
-    </a> 
+
+  <a href="https://github.com/Jlucena-tech?tab=stars">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/Jlucena-tech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+</a>
+<a href="https://github.com/Jlucena-tech?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/Jlucena-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+</a>
+
+    
 </p>
 
 ---
 
-### 🛠️ Tecnologias e Habilidades
+### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Cypress" 
-    title="Cypress"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypress/cypress-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
 <img 
     align="left" 
     alt="HTML"
@@ -67,12 +46,13 @@ Profissional com perfil colaborativo e flexibilidade para lidar com mudanças. E
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -83,37 +63,32 @@ Profissional com perfil colaborativo e flexibilidade para lidar com mudanças. E
 />
 <img 
     align="left" 
-    alt="Scrum" 
-    title="Metodologias Ágeis"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/agile/agile-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
 <br/>
 
-### 📊 Experiência Profissional
+### 📊 Estatísticas
 
-**Funcionário Administrativo**  
-Fevereiro 2024 – Novembro 2024 | Manaus - AM  
-- Organização de documentos e arquivos  
-- Armazenamento adequado para fácil acesso e consulta  
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-**Formação Acadêmica**  
-Tecnólogo em Análise e Desenvolvimento de Sistemas  
-Faculdade Martha Falcão – Wyden  
-01/2025 – 06/2027 (em curso)  
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-### 🌐 Idiomas
-
-- Inglês  
-- Español  
-
----
-
-### 📌 Contato
-
-- 📍 Rua Ipiranga, Manaus – AM, 69090119  
-- 📞 +55 92 8191-9817  
-- ✉️ josuelucena2019@gmail.com  
+</p>
