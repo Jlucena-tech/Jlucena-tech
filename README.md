@@ -1,69 +1,119 @@
-# 👨🏻‍💻 Josue Lucena
+# 👨‍💻 Josué Lucena
 
-**`Analista de Testes | QA`**
+**`QA | Analista de Testes`**
 
-Me chamo Josue Lucena, sou de Manaus-AM e atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Martha Falcão – Wyden. Tenho perfil colaborativo, sou flexível diante de mudanças e comprometido com a melhoria contínua dos processos. Tenho experiência com testes manuais e automação utilizando Cypress e JavaScript, além de conhecimento em banco de dados e linguagens como Java, HTML e CSS.
+Profissional com perfil colaborativo e flexibilidade para lidar com mudanças. Especializado em automação de testes com Cypress e JavaScript, execução de testes manuais e conhecimentos em banco de dados (MySQL). Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade Martha Falcão – Wyden.
 
 <p align="left">
     <a href="mailto:josuelucena2019@gmail.com">
         <img 
             alt="Email" 
-            title="Entre em contato" 
-            src="https://img.shields.io/badge/email-contato-red?style=for-the-badge&logo=gmail&logoColor=white"
+            title="Me envie um email" 
+            src="https://img.shields.io/badge/Email-josuelucena2019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU-USUARIO-AQUI" target="_blank">
+    <a href="tel:+559281919817">
         <img 
-            alt="GitHub" 
-            title="GitHub" 
-            src="https://img.shields.io/badge/GitHub-perfil-181717?style=for-the-badge&logo=github&logoColor=white"
+            alt="Telefone" 
+            title="Me ligue" 
+            src="https://img.shields.io/badge/Telefone-(92)%208191--9817-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
-    </a>
-    <a href="https://www.linkedin.com/in/josue-lucena-844b64219/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+    </a> 
 </p>
 
 ---
 
-### 🧠 Habilidades e Competências
+### 🛠️ Tecnologias e Habilidades
 
-- ✅ Perfil colaborativo e flexível
-- ✅ Organização e gestão de documentos
-- ✅ Testes manuais e de regressão
-- ✅ Automação de testes com **Cypress** e **JavaScript**
-- ✅ Conhecimentos em **MySQL**, **Java**, **HTML5**, **CSS**, **C**
-- ✅ Edição básica de vídeos e fotos (Photoshop, CapCut)
-- ✅ Familiaridade com metodologias ágeis (Scrum)
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypress/cypress-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Scrum" 
+    title="Metodologias Ágeis"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/agile/agile-original.svg" 
+/>
 
----
+<br/>
+<br/>
 
-### 🧪 Experiência
+### 📊 Experiência Profissional
 
-**Funcionário Administrativo | QA (Analista de Testes)**  
-📍 Manaus – AM  
-🗓 Fevereiro 2024 – Novembro 2024
+**Funcionário Administrativo**  
+Fevereiro 2024 – Novembro 2024 | Manaus - AM  
+- Organização de documentos e arquivos  
+- Armazenamento adequado para fácil acesso e consulta  
 
-- Organização de documentos e arquivos importantes
-- Planejamento e execução de testes manuais
-- Suporte em testes automatizados com Cypress
-
----
-
-### 🎓 Formação Acadêmica
-
-**Faculdade Martha Falcão – Wyden**  
-_Tecnólogo em Análise e Desenvolvimento de Sistemas_  
-📍 Manaus – AM  
-📅 01/2025 – 06/2027 (em curso)
-
----
+**Formação Acadêmica**  
+Tecnólogo em Análise e Desenvolvimento de Sistemas  
+Faculdade Martha Falcão – Wyden  
+01/2025 – 06/2027 (em curso)  
 
 ### 🌐 Idiomas
 
-- 🇺🇸 Inglês – Básico  
-- 🇪🇸 Espanhol – Básico  
+- Inglês  
+- Español  
+
+---
+
+### 📌 Contato
+
+- 📍 Rua Ipiranga, Manaus – AM, 69090119  
+- 📞 +55 92 8191-9817  
+- ✉️ josuelucena2019@gmail.com  
