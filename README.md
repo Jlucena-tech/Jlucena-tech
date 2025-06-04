@@ -29,21 +29,19 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Ma
 
 ### 📌 Projetos em destaque
 
-> ⚠️ Adicione aqui links para repositórios importantes ou projetos no GitHub quando quiser.
+> ⚠️ *Adicione aqui links para repositórios importantes ou projetos no GitHub.*
 
 ---
 
 ### 📬 Contato
 
-- Email: [josuelucena2019@gmail.com](mailto:josuelucena2019@gmail.com)
-- Celular: +55 92 8191-9817
-- LinkedIn: *(adicione seu link aqui, se tiver)*
+- 📧 Email: [josuelucena2019@gmail.com](mailto:josuelucena2019@gmail.com)
+- 📱 Celular: +55 92 8191-9817
+- 💼 LinkedIn: [linkedin.com/in/josue-lucena-844b64219](https://www.linkedin.com/in/josue-lucena-844b64219/)
 
 ---
 
-### 🏅 Badges e status (opcional)
-
-Você pode adicionar badges como estas, se quiser:
+### 🏅 GitHub Stats
 
 ```markdown
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuelucena&show_icons=true&theme=default)
