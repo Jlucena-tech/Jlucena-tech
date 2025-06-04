@@ -1,48 +1,30 @@
-<h1 align="center">👋 Olá, eu sou Josue Lucena</h1>
+# 👋 Olá, eu sou Josue Lucena!
 
-<p align="center">
-  📍 Manaus, AM &nbsp;|&nbsp;
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas &nbsp;|&nbsp;
-  🧪 QA / Analista de Testes
-</p>
+🎯 QA Teste Júnior com foco em testes manuais e automação com Cypress.
 
----
-
-### 💡 Sobre mim
-
-Sou um profissional colaborativo, com flexibilidade para lidar com mudanças e foco na melhoria contínua. Tenho experiência na organização de documentos, execução de testes manuais e automação de testes utilizando Cypress com JavaScript.
-
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Martha Falcão – Wyden (conclusão prevista para 2027) e busco oportunidades para crescer profissionalmente na área de tecnologia.
+Atualmente estudando Análise e Desenvolvimento de Sistemas (Faculdade Martha Falcão - Wyden).  
+Buscando oportunidades para aplicar meus conhecimentos em testes, automação e qualidade de software.
 
 ---
 
-### 🛠️ Habilidades e Tecnologias
-
-- 📋 Testes manuais e de regressão
-- 🤖 Automação de testes com **Cypress** e **JavaScript**
-- 🛢️ Banco de dados (MySQL - básico)
-- 💻 Linguagens: Java, JavaScript, HTML5, CSS, C
-- 🧠 Metodologias Ágeis (Scrum)
-- 🎨 Edição básica de vídeos e imagens (Photoshop, CapCut)
+## 💼 Habilidades
+- ✅ Cypress + JavaScript
+- 🧪 Testes Manuais e de Regressão
+- 📄 Planejamento e documentação de testes
+- 💽 MySQL (básico)
+- 🔄 Metodologias Ágeis (Scrum)
 
 ---
 
-### 📌 Projetos em destaque
-
-> ⚠️ *Adicione aqui links para repositórios importantes ou projetos no GitHub.*
-
----
-
-### 📬 Contato
-
-- 📧 Email: [josuelucena2019@gmail.com](mailto:josuelucena2019@gmail.com)
-- 📱 Celular: +55 92 8191-9817
-- 💼 LinkedIn: [linkedin.com/in/josue-lucena-844b64219](https://www.linkedin.com/in/josue-lucena-844b64219/)
+## 🚀 Projetos em Destaque
+- 🔧 [Testes Cypress - ToDo App](https://github.com/josuelucena/cypress-todo-qa)
+- 📋 [Casos de Teste Manuais - Sistema de Login](https://github.com/josuelucena/manual-test-cases)
+- 🔌 [Testes de API com Postman (em breve)](https://github.com/josuelucena/api-tests-postman)
 
 ---
 
-### 🏅 GitHub Stats
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuelucena&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuelucena&layout=compact)
+📫 **Contato**  
+📧 josuelucena2019@gmail.com  
+📱 (92) 8191-9817  
+📍 Manaus - AM  
+🔗 [LinkedIn (adicione o link aqui)](https://linkedin.com/in/seu-perfil)
