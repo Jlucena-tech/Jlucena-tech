@@ -23,7 +23,6 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Ma
 - 🛢️ Banco de dados (MySQL - básico)
 - 💻 Linguagens: Java, JavaScript, HTML5, CSS, C
 - 🧠 Metodologias Ágeis (Scrum)
-- 🎨 Edição básica de vídeos e imagens (Photoshop, CapCut)
 
 ---
 
